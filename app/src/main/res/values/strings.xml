@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Kilina-5.2.Toolbar</string>
+    <string name="save">Сохранить</string>
+    <string name="endDate">Дата-время окончания задачи:</string>
+    <string name="ok">OK</string>
+    <string name="startDate">Дата-время старта задачи:</string>
+    <string name="fail">Ошибка</string>
+    <string name="theEnd">\n Окончание: </string>
+    <string name="start"> Старт: </string>
+    <string name="notes">Записная книжка</string>
+    <string name="calendarView">Календарь "Сроки задачи"</string>
+    <string name="show_Address">Показать адрес</string>
+    <string-array name="countries">
+        <item>Россия</item>
+        <item>Украина</item>
+        <item>Белоруссия</item>
+    </string-array>
+    <string-array name="r_cities">
+        <item>Москва</item>
+        <item>Санкт-Петербург</item>
+        <item>Казань</item>
+    </string-array>
+    <string-array name="u_cities">
+        <item>Киев</item>
+        <item>Одесса</item>
+        <item>Харьков</item>
+    </string-array>
+    <string-array name="b_cities">
+        <item>Минск</item>
+        <item>Гомель</item>
+        <item>Торжок</item>
+    </string-array>
+    <string name="world">Страны-города-улицы</string>
+    <string name="input_Money">Ввод денег</string>
+    <string name="input_Info">Информация об оплате</string>
+    <string name="btnOK">Ок</string>
+    <string name="bankCardChkBx">С банковской карты</string>
+    <string name="mobilePhoneChkBx">С мобильного телефона</string>
+    <string name="cashAddressChkBx">Наличными по адресу</string>
+    <string name="IsCheckedChkBx">Выбранный тип оплаты: \n  %1$s</string>
+    <string name="checkBox">Взаимоисключающие checkBox</string>
+    <string name="lastName">Фамилия</string>
+    <string name="personalInformation">Личная информация</string>
+    <string name="middleName">Имя</string>
+    <string name="firstName">Отчество</string>
+    <string name="age">Возраст</string>
+    <string name="pressure">Давление</string>
+    <string name="vitals">Жизненные показатели</string>
+    <string name="name"> Комплексная система мониторинга здоровья\n Автор: Килина В.А.</string>
+    <string name="ourPressure">Ваше давление</string>
+    <string name="upperPressure">Верхнее давление</string>
+    <string name="lowerPressure">Нижнее давление</string>
+    <string name="pulse">Пульс</string>
+    <string name="tachycardia">Тахикардия</string>
+    <string name="data">Дата замера</string>
+    <string name="weight">Вес</string>
+    <string name="steps">Количество шагов</string>
+    <string name="clean">Очистить</string>
+    <string name="message">Введите корректные данные!</string>
+    <string name="messageClean">Пустые поля!</string>
+    <string name="health">Система мониторинга здоровья</string>
+    <string name="head">Просмотр фото</string>
+    <string name="back">Назад</string>
+    <string name="along">Вперед</string>
+    <string name="output">http://myfile.org/ %1$d</string>
+    <string name="transition">Бесконечный переход</string>
+    <string name="Headline"> Подписка</string>
+    <string name="login">Имя пользователя</string>
+    <string name="email">Email</string>
+    <string name="input_data">Введите данные!</string>
+    <string name="subscription1">Подписка на рассылку успешно оформлена для пользователя %1$s на электронный адрес %2$s</string>
+    <string name="input_form">Универсальная форма ввода</string>
+    <string name="hello">Собственный Hello World</string>
+    <string name="first">Первый проект</string>
+    <string name="exit">Выход</string>
+</resources>

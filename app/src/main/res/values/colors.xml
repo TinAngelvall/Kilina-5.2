@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="endDate">#E2E2E2</color>
+    <color name="textColor">#000000</color>
+    <color name="textColorHint">#736F6F</color>
+    <color name="backgroundBtn">#3DDC84</color>
+    <color name="color_btn">#1DC4DA</color>
+    <color name="color_head">#0649CF</color>
+    <color name="color_text">#000000</color>
+    <color name="ic_subscription_background">#6A81EA</color>
+    <color name="background_btn">#233EC3</color>
+    <color name="text">#000000</color>
+    <color name="background_ediText">#DA677BAC</color>
+    <color name="background_app">#BEE8F4</color>
+    <color name="ic_launcher_new_background">#DCD413</color>
+</resources>

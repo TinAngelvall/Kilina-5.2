@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.netodologia.myapplication.MainActivity">
+
+    <item
+        android:id="@+id/firstProject"
+        android:orderInCategory="100"
+        android:title="@string/first"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/helloWorld"
+        android:orderInCategory="100"
+        android:title="@string/hello"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_universal_input_form"
+        android:orderInCategory="100"
+        android:title="@string/input_form"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_infiniteTransition"
+        android:orderInCategory="100"
+        android:title="@string/transition"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_open_health"
+        android:orderInCategory="100"
+        android:title="@string/health"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_open_notes"
+        android:orderInCategory="100"
+        android:title="@string/notes"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_open_checkBox"
+        android:orderInCategory="100"
+        android:title="@string/checkBox"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_open_spinner"
+        android:orderInCategory="100"
+        android:title="@string/world"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_open_calendarView"
+        android:orderInCategory="100"
+        android:title="@string/calendarView"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="100"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+
+</menu>
